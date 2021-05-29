@@ -1,16 +1,22 @@
-name: WakaTime Readme
+name: Update Gist
 
 on:
   push:
-    branches:
-      - main
+    branches: main
+
   schedule:
-    - cron: '0 19 * * *'
+    - cron: "0 */3 * * *"
 
 jobs:
-  update-readme:
+  update-gist:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
-        with:
+      - uses: actions/checkout@master
+      - name: Install
+        run: npm ci
+      - name: Update gist
+        run: node ./index.js
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: 9952386180cb13d54f7381b9bb60e0db
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
