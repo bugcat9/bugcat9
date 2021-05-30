@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-stats.vercel.app/api?username=zhou-ning)
-
+📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
 Markdown   3 mins          █████████████████░░░░░░░░   67.40 % 
