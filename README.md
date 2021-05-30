@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api?username=zhou-ning)
 
-📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-106-blue)
 
