@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 363 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 823.4 kB Used in GitHub's Storage 
  > 
@@ -95,5 +95,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zhou-ning/zhou-ning/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
