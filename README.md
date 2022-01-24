@@ -60,16 +60,16 @@ Sunday       81 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-UTAL                     2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -90,5 +90,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zhou-ning/zhou-ning/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/01/2022 00:53:14 UTC
+ Last Updated on 24/01/2022 00:53:05 UTC
 <!--END_SECTION:waka-->
