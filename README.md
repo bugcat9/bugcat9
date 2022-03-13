@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=zhou-ning)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -90,5 +90,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zhou-ning/zhou-ning/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/03/2022 01:07:59 UTC
+ Last Updated on 13/03/2022 01:01:38 UTC
 <!--END_SECTION:waka-->
