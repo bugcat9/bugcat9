@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=zhou-ning)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
@@ -60,16 +60,19 @@ Sunday       79 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 21 mins       █████████████████████░░░░   86.66% 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.56% 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.78%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 43 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          2 hrs 43 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 27 mins       ██████████████████████░░░   90.47% 
+Windows                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.53%
 
 ```
 
@@ -90,5 +93,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zhou-ning/zhou-ning/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/03/2022 01:07:34 UTC
+ Last Updated on 25/03/2022 01:05:19 UTC
 <!--END_SECTION:waka-->
