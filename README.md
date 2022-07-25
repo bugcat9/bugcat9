@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My ![Visitor Count](https://profile-counter.glitch.me/zhou-ning/count.svg) visitor
 <!--
 **zhou-ning/zhou-ning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-stats.vercel.app/api?username=zhou-ning)
+
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
