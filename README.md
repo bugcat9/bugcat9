@@ -65,19 +65,16 @@ Sunday       77 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Git Config               5 mins              ██████████████░░░░░░░░░░░   57.55% 
-Python                   4 mins              ██████████░░░░░░░░░░░░░░░   40.81% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-pytorch-i3d              10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -98,5 +95,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zhou-ning/zhou-ning/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/08/2022 01:57:05 UTC
+ Last Updated on 03/08/2022 01:48:00 UTC
 <!--END_SECTION:waka-->
