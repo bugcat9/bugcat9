@@ -2,7 +2,7 @@
 
 My ![Visitor Count](https://profile-counter.glitch.me/bugcat9/count.svg) visitor
 <!--
-**zhou-ning/zhou-ning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bugcat9/bugcat9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -94,7 +94,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/zhou-ning/zhou-ning/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/bugcat9/bugcat9/main/charts/bar_graph.png) 
 
 
  Last Updated on 17/09/2022 01:50:03 UTC
