@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My ![Visitor Count](https://profile-counter.glitch.me/zhou-ning/count.svg) visitor
+My ![Visitor Count](https://profile-counter.glitch.me/bugcat9/count.svg) visitor
 <!--
 **zhou-ning/zhou-ning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
