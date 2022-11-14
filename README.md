@@ -98,3 +98,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 14/11/2022 01:26:05 UTC
 <!--END_SECTION:waka-->
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
