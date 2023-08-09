@@ -95,9 +95,9 @@ HTML                     1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [高精度计算](https://bugcat.top/2023/07/03/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/3.%E9%AB%98%E7%B2%BE%E5%BA%A6%E8%AE%A1%E7%AE%97/)
-- [前缀和与差分](https://bugcat.top/2023/07/03/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/4.%E5%89%8D%E7%BC%80%E5%92%8C%E4%B8%8E%E5%B7%AE%E5%88%86/)
-- [整数二分](https://bugcat.top/2023/07/01/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/2.%E6%95%B4%E6%95%B0%E4%BA%8C%E5%88%86/)
-- [排序](https://bugcat.top/2023/07/01/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/1.%E6%8E%92%E5%BA%8F/)
-- [使用muduo编写webserver](https://bugcat.top/2023/02/13/Linux/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E6%9E%84%E5%BB%BAmuduo/%E4%BD%BF%E7%94%A8muduo%E7%BC%96%E5%86%99webserver/)
+- [区间合并](https://bugcat.top/2023/08/06/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/8.%E5%8C%BA%E9%97%B4%E5%90%88%E5%B9%B6/)
+- [区间和](https://bugcat.top/2023/08/06/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/7.%E5%8C%BA%E9%97%B4%E5%92%8C/)
+- [双指针](https://bugcat.top/2023/08/06/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/6.%E5%8F%8C%E6%8C%87%E9%92%88/)
+- [位运算](https://bugcat.top/2023/08/06/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/5.%E4%BD%8D%E8%BF%90%E7%AE%97/)
+- [static、extern和inline](https://bugcat.top/2023/08/05/C++/static%E3%80%81extern%E5%92%8Cinline/)
 <!-- BLOG-POST-LIST:END -->
