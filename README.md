@@ -100,9 +100,9 @@ HTML                     1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [背包问题](https://bugcat.top/2023/09/03/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/9.%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98/)
 - [区间合并](https://bugcat.top/2023/08/06/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/8.%E5%8C%BA%E9%97%B4%E5%90%88%E5%B9%B6/)
 - [区间和](https://bugcat.top/2023/08/06/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/7.%E5%8C%BA%E9%97%B4%E5%92%8C/)
 - [双指针](https://bugcat.top/2023/08/06/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/6.%E5%8F%8C%E6%8C%87%E9%92%88/)
 - [位运算](https://bugcat.top/2023/08/06/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/5.%E4%BD%8D%E8%BF%90%E7%AE%97/)
-- [static、extern和inline](https://bugcat.top/2023/08/05/C++/static%E3%80%81extern%E5%92%8Cinline/)
 <!-- BLOG-POST-LIST:END -->
