@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-884%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-884%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,17 +65,17 @@ Sunday                   183 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 15 mins        ████████████████████████░   97.77 % 
-Ezhil                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Markdown                 1 hr 1 min          ████████████████████████░   97.29 % 
+Ezhil                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 🔥 Editors: 
-VS Code                  1 hr 17 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bugcat9.github.io        1 hr 17 mins        █████████████████████████   100.00 % 
+bugcat9.github.io        1 hr 3 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 17 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -91,7 +91,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2023 00:54:25 UTC
+ Last Updated on 13/09/2023 00:57:17 UTC
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
