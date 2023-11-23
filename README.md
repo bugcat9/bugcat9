@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-884%20hrs%2046%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -65,16 +63,19 @@ Sunday                   183 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 13 mins       █████████████████████████   99.57 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+图片                       2 hrs 13 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -90,7 +91,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2023 00:59:25 UTC
+ Last Updated on 23/11/2023 00:59:39 UTC
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
