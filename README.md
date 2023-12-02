@@ -65,18 +65,16 @@ Sunday                   183 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 32 mins       █████████████████████████   98.83 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 34 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-图片                       2 hrs 34 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -92,7 +90,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2023 01:05:26 UTC
+ Last Updated on 02/12/2023 00:58:12 UTC
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
