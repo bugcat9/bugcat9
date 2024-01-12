@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-898%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-898%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,16 +65,16 @@ Sunday                   192 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      3 hrs 13 mins       █████████████████████████   100.00 % 
+TeX                      2 hrs 49 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-UTAL                     3 hrs 13 mins       █████████████████████████   100.00 % 
+UTAL                     2 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -90,7 +90,7 @@ Component Pascal         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/01/2024 01:01:25 UTC
+ Last Updated on 12/01/2024 01:01:44 UTC
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
