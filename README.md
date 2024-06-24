@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-923%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -65,15 +65,13 @@ Sunday                   196 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   14 mins             █████████████████████████   99.05 % 
-PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Python                   14 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-HC-UTAL                  14 mins             █████████████████████████   98.36 % 
-视频                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+HC-UTAL                  14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Windows                  14 mins             █████████████████████████   100.00 % 
@@ -92,7 +90,7 @@ Component Pascal         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2024 01:08:05 UTC
+ Last Updated on 24/06/2024 01:05:36 UTC
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
