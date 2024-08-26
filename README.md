@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-927%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-928%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -71,8 +71,7 @@ C++                      43 mins             ███████████�
 Visual Studio            43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ModernC++                43 mins             █████████████████████████   99.85 % 
-QtWidgetsApplication1    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+ModernC++                43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Windows                  43 mins             █████████████████████████   100.00 % 
@@ -91,7 +90,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2024 01:13:29 UTC
+ Last Updated on 26/08/2024 01:08:47 UTC
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
