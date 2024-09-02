@@ -97,9 +97,9 @@ HTML                     1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [decltype类型推导](https://bugcat.top/2024/09/01/C++/decltype%E7%B1%BB%E5%9E%8B%E6%8E%A8%E5%AF%BC/)
 - [auto类型推导](https://bugcat.top/2024/08/26/C++/auto%E7%B1%BB%E5%9E%8B%E6%8E%A8%E5%AF%BC/)
 - [模板类型推导](https://bugcat.top/2024/08/10/C++/%E6%A8%A1%E6%9D%BF%E7%B1%BB%E5%9E%8B%E6%8E%A8%E5%AF%BC/)
 - [背包问题](https://bugcat.top/2023/09/03/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/9.%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98/)
 - [区间合并](https://bugcat.top/2023/08/06/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/8.%E5%8C%BA%E9%97%B4%E5%90%88%E5%B9%B6/)
-- [区间和](https://bugcat.top/2023/08/06/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/7.%E5%8C%BA%E9%97%B4%E5%92%8C/)
 <!-- BLOG-POST-LIST:END -->
