@@ -80,17 +80,17 @@ No Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-C++                      8 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
-Java                     6 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Component Pascal         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+C++                      8 repos             ██████████░░░░░░░░░░░░░░░   38.10 % 
+Java                     6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Component Pascal         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
 
 
- Last Updated on 02/10/2024 01:15:03 UTC
+ Last Updated on 03/10/2024 01:15:17 UTC
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
