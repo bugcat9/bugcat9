@@ -94,9 +94,9 @@ HTML                     1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [push_back和emplace_back](https://bugcat.top/2024/10/20/C++/push-back%E5%92%8Cemplace-back/)
+- [forward](https://bugcat.top/2024/10/20/C++/forward/)
+- [move](https://bugcat.top/2024/10/20/C++/move/)
 - [智能指针](https://bugcat.top/2024/10/07/C++/%E6%99%BA%E8%83%BD%E6%8C%87%E9%92%88/)
 - [优先使用enum class](https://bugcat.top/2024/10/03/C++/%E4%BC%98%E5%85%88%E4%BD%BF%E7%94%A8enum%20class/)
-- [C++类中的特殊成员函数](https://bugcat.top/2024/09/20/C++/C++%E7%B1%BB%E4%B8%AD%E7%9A%84%E7%89%B9%E6%AE%8A%E6%88%90%E5%91%98%E5%87%BD%E6%95%B0/)
-- [decltype类型推导](https://bugcat.top/2024/09/01/C++/decltype%E7%B1%BB%E5%9E%8B%E6%8E%A8%E5%AF%BC/)
-- [auto类型推导](https://bugcat.top/2024/08/26/C++/auto%E7%B1%BB%E5%9E%8B%E6%8E%A8%E5%AF%BC/)
 <!-- BLOG-POST-LIST:END -->
