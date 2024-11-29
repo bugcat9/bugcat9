@@ -94,9 +94,9 @@ HTML                     1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SFINAE学习](https://bugcat.top/2024/11/28/C++/SFINAE%E5%AD%A6%E4%B9%A0/)
+- [span](https://bugcat.top/2024/11/10/C++/span/)
+- [optional](https://bugcat.top/2024/11/10/C++/optional/)
 - [push_back和emplace_back](https://bugcat.top/2024/10/20/C++/push-back%E5%92%8Cemplace-back/)
 - [forward](https://bugcat.top/2024/10/20/C++/forward/)
-- [move](https://bugcat.top/2024/10/20/C++/move/)
-- [智能指针](https://bugcat.top/2024/10/07/C++/%E6%99%BA%E8%83%BD%E6%8C%87%E9%92%88/)
-- [优先使用enum class](https://bugcat.top/2024/10/03/C++/%E4%BC%98%E5%85%88%E4%BD%BF%E7%94%A8enum%20class/)
 <!-- BLOG-POST-LIST:END -->
