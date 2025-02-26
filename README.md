@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 44 Public Repositories 
@@ -65,19 +63,16 @@ Sunday                   198 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 min               █████████████░░░░░░░░░░░░   52.94 % 
-CMake                    1 min               ███████████░░░░░░░░░░░░░░   45.54 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cef                      1 min               █████████████░░░░░░░░░░░░   52.94 % 
-TinyAnt                  1 min               ████████████░░░░░░░░░░░░░   47.06 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -93,7 +88,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/02/2025 01:17:28 UTC
+ Last Updated on 26/02/2025 01:17:09 UTC
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
