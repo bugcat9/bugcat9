@@ -101,9 +101,9 @@ HTML                     1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [QT6 内嵌CEF 环境配置](https://bugcat.top/2025/03/02/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E5%AE%89%E8%A3%85/QT6%20%E5%86%85%E5%B5%8CCEF%20%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/)
 - [SFINAE学习](https://bugcat.top/2024/11/28/C++/SFINAE%E5%AD%A6%E4%B9%A0/)
 - [span](https://bugcat.top/2024/11/10/C++/span/)
 - [optional](https://bugcat.top/2024/11/10/C++/optional/)
 - [push_back和emplace_back](https://bugcat.top/2024/10/20/C++/push-back%E5%92%8Cemplace-back/)
-- [forward](https://bugcat.top/2024/10/20/C++/forward/)
 <!-- BLOG-POST-LIST:END -->
