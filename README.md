@@ -22,11 +22,15 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-964%20hrs%207%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
+ > 
+> 🏆 10 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,17 +65,17 @@ Sunday                   206 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               7 hrs 20 mins       █████████████████████████   100.00 % 
+TypeScript               8 hrs 11 mins       █████████████████████████   100.00 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-snake_cocos              7 hrs 20 mins       █████████████████████████   100.00 % 
+snake_cocos              8 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -87,7 +91,7 @@ Component Pascal         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/03/2025 01:20:49 UTC
+ Last Updated on 29/03/2025 01:20:00 UTC
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
