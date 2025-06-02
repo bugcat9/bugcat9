@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
+> 🏆 17 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 46 Public Repositories 
@@ -63,16 +65,16 @@ Sunday                   212 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-HelloWorld               1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -88,7 +90,7 @@ Component Pascal         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2025 01:51:16 UTC
+ Last Updated on 02/06/2025 01:40:03 UTC
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
