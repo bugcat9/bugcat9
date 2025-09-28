@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-978%20hrs%2033%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -38,45 +36,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                274 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-🌆 Daytime                632 commits         █████████░░░░░░░░░░░░░░░░   37.80 % 
-🌃 Evening                716 commits         ███████████░░░░░░░░░░░░░░   42.82 % 
-🌙 Night                  50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Tuesday                  272 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Wednesday                205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Thursday                 310 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Friday                   216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Saturday                 263 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Sunday                   221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -90,7 +49,7 @@ Component Pascal         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2025 01:17:20 UTC
+ Last Updated on 28/09/2025 01:28:19 UTC
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
