@@ -65,16 +65,18 @@ Sunday                   221 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 17 mins             █████████████░░░░░░░░░░░░   52.94 % 
+Other                    13 mins             ███████████░░░░░░░░░░░░░░   42.11 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  32 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+zhihu                    32 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  32 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -90,7 +92,7 @@ Component Pascal         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/03/2026 01:55:41 UTC
+ Last Updated on 08/03/2026 02:04:55 UTC
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
