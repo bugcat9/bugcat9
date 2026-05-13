@@ -65,17 +65,16 @@ Sunday                   223 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 37 mins        █████████████████████████   99.70 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bugcat9.github.io        1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -91,7 +90,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2026 02:54:09 UTC
+ Last Updated on 13/05/2026 02:58:36 UTC
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
