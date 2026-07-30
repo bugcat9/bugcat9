@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C018%20hrs%2041%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%208%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -63,41 +67,45 @@ Sunday                   226 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-PowerShell               1 hr 9 mins         █████████████░░░░░░░░░░░░   52.11 % 
-Go                       45 mins             ████████░░░░░░░░░░░░░░░░░   33.95 % 
-Other                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+PowerShell               1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   33.50 % 
+Go                       45 mins             █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+Other                    38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Git Config               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Python                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LuminaCode               1 hr 55 mins        ██████████████████████░░░   86.56 % 
-ni-h                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+LuminaCode               1 hr 55 mins        ██████████████░░░░░░░░░░░   55.64 % 
+PocketPilot              35 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+w                        34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+ni-h                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 💻 Operating System: 
-Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 12 mins (99.47%)
+⏱ AI Coding Time: 3 hrs 27 mins (99.66%)
 
-✍️ 183 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,622 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 20,140,717 Input Tokens, 94,075 Output Tokens
+🔤 23,908,468 Input Tokens, 182,390 Output Tokens
 
-💵 $103.53 Estimated AI Cost This Week
+💵 $125.01 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 21 AI Prompts
+🧠 5 AI Sessions, 33 AI Prompts
 
-GPT                      349 lines           █████████████████████████   100.00 % 
+GPT                      2,788 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 43 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📝 Concise Prompter — average 39 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -114,7 +122,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 02:32:44 UTC
+ Last Updated on 30/07/2026 02:20:21 UTC
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
