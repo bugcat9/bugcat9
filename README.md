@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2024%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2012%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -92,11 +88,11 @@ Windows                  3 hrs               ███████████�
 
 ✍️ 750 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 26,098,765 Input Tokens, 85,170 Output Tokens
+🔤 25,936,135 Input Tokens, 83,692 Output Tokens
 
 💵 $132.86 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 14 AI Prompts
+🧠 6 AI Sessions, 14 AI Prompts
 
 GPT                      750 lines           █████████████████████████   100.00 % 
 
@@ -120,7 +116,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 02:28:48 UTC
+ Last Updated on 07/08/2026 02:36:53 UTC
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
