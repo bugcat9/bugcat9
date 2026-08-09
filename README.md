@@ -67,42 +67,41 @@ Sunday                   228 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 43 mins        ██████████████░░░░░░░░░░░   57.70 % 
-Bash                     41 mins             ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-Markdown                 21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+TypeScript               3 hrs 56 mins       █████████████████░░░░░░░░   67.85 % 
+CSS                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Bash                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+JavaScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs               █████████████████████████   100.00 % 
+VS Code                  5 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PocketPilot              2 hrs 59 mins       █████████████████████████   99.46 % 
-LuminaCode               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+PocketPilot              5 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs               █████████████████████████   100.00 % 
+Windows                  5 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs (99.94%)
+⏱ AI Coding Time: 5 hrs 48 mins (100.0%)
 
-✍️ 750 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,472 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 25,871,014 Input Tokens, 81,217 Output Tokens
+🔤 65,129,197 Input Tokens, 224,033 Output Tokens
 
-💵 $131.60 Estimated AI Cost This Week
+💵 $332.25 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 13 AI Prompts
+🧠 3 AI Sessions, 18 AI Prompts
 
-GPT                      750 lines           █████████████████████████   100.00 % 
+GPT                      2,475 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,145 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 3,883 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -119,7 +118,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 01:27:56 UTC
+ Last Updated on 09/08/2026 01:40:09 UTC
 <!--END_SECTION:waka-->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
